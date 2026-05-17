@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍔 FSW Food
 
-## Getting Started
+Uma aplicação moderna de delivery de comida desenvolvida com **Next.js**, **TailwindCSS** e foco em experiência do usuário, performance e design responsivo.
 
-First, run the development server:
+## 📸 Preview do Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![FSW Food Preview](./public/preview.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Interface moderna para busca de restaurantes, categorias de alimentos, promoções e pedidos recomendados.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🚀 Tecnologias Utilizadas
 
-## Learn More
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-To learn more about Next.js, take a look at the following resources:
+- ⚡ **Next.js**
+- 🎨 **TailwindCSS**
+- 🟨 **TypeScript**
+- ⚛️ **React.js**
+- 📱 **Responsive Design**
+- 🔍 **Search UI**
+- 🍕 Sistema de categorias de alimentos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## ✨ Funcionalidades
 
-## Deploy on Vercel
+✅ Busca de restaurantes  
+✅ Categorias de comidas  
+✅ Sessão de pedidos recomendados  
+✅ Cards de produtos com desconto  
+✅ Restaurantes recomendados  
+✅ Promoções especiais  
+✅ Interface responsiva  
+✅ Design moderno e intuitivo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🖼️ Layout do Projeto
+
+O sistema possui:
+
+### 🏠 Home Page
+
+- Banner principal
+- Campo de busca
+- Categorias de comida
+- Produtos recomendados
+- Promoções
+- Restaurantes próximos
+
+### 🍕 Categorias
+
+- Pratos
+- Lanches
+- Japonesa
+- Pizza
+- Sobremesas
+- Sucos
+- Refrigerantes
+
+### 🛍️ Produtos
+
+- Nome do prato
+- Preço
+- Restaurante
+- Imagem
+- Descontos promocionais
+
+---
+
+## 🧑‍💻 Autor
+
+Desenvolvido por **Julio Paschoal** 🚀
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
